@@ -1,5 +1,5 @@
-EPSDtoSS6‚Æ‚Í  
-PSDtoSS6‚Æ‚ÍPhotoshop‚ÌƒXƒNƒŠƒvƒg‚ÆƒRƒ“ƒo[ƒ^‚ðŽg—p‚µ‚ÄAPSDƒtƒ@ƒCƒ‹‚©‚çSpriteStudio6‚ÌƒvƒƒWƒFƒNƒgƒtƒ@ƒCƒ‹‚ðì¬‚·‚éƒRƒ“ƒo[ƒ^‚Å‚·B
+ãƒ»PSDtoSS6ã¨ã¯  
+PSDtoSS6ã¨ã¯Photoshopã®ã‚¹ã‚¯ãƒªãƒ—ãƒˆã¨ã‚³ãƒ³ãƒãƒ¼ã‚¿ã‚’ä½¿ç”¨ã—ã¦ã€PSDãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰SpriteStudio6ã®ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½œæˆã™ã‚‹ã‚³ãƒ³ãƒãƒ¼ã‚¿ã§ã™ã€‚
 
-EƒhƒLƒ…ƒƒ“ƒg  
-https://github.com/SpriteStudio/PSDtoSS6/wiki
+ãƒ»ãƒ‰ã‚­ãƒ¥ãƒ¡ãƒ³ãƒˆ  
+https://github.com/SpriteStudio/PSDtoSS6old/wiki
